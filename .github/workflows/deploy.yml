@@ -11,7 +11,7 @@ permissions:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: my-node-app
+  ECR_REPOSITORY: mynodeapp
   CONTAINER_NAME: app
   EC2_INSTANCE_ID: i-0940de30c2d8b4568   
 
